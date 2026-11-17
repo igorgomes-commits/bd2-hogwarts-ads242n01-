@@ -7,9 +7,9 @@
 
 ## Aluno
 
-| Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
-|  |  |  |
+| Nome              | Matrícula | Usuário do GitHub |
+| ----------------- | --------- | ----------------- |
+| Igor Simões Gomes | 2420443   | igorgomes-commits |
 
 ## O cenário
 
@@ -23,16 +23,16 @@ O enunciado completo, com todas as tabelas, os dados e as questões, está em [`
 
 A atividade tem 48 questões numeradas e 27 desafios de consulta. Execute tudo **na ordem**: os resultados das consultas dependem das alterações, dos triggers e das transações das seções anteriores.
 
-| Seção | Conteúdo | Questões |
-| --- | --- | --- |
-| 1 e 1.1 | DDL: criação do banco e das 10 tabelas; carga inicial (INSERT) | criação + carga |
-| 2 | ALTER TABLE e UPDATE (CONCAT, LEAST, CASE, subconsulta com IN) | 1 a 12 |
-| 3 | DELETE e testes de restrições (FK, CHECK, UNIQUE) | 13 a 19 |
-| 4 | Triggers: Taça das Casas, validação de compra, baixa de estoque, situação automática, auditoria | 20 a 25 |
-| 5 | TCL: COMMIT, ROLLBACK, SAVEPOINT, autocommit | 26 a 30 |
-| 6 | Consultas: operadores especiais, JOINs, agregação com HAVING, subconsultas, UNION ALL | 6.1 a 6.27 |
-| 7 | Views | 31 a 38 |
-| 8 | DCL: usuários, GRANT, REVOKE e papéis (roles) | 39 a 48 |
+| Seção   | Conteúdo                                                                                        | Questões        |
+| ------- | ----------------------------------------------------------------------------------------------- | --------------- |
+| 1 e 1.1 | DDL: criação do banco e das 10 tabelas; carga inicial (INSERT)                                  | criação + carga |
+| 2       | ALTER TABLE e UPDATE (CONCAT, LEAST, CASE, subconsulta com IN)                                  | 1 a 12          |
+| 3       | DELETE e testes de restrições (FK, CHECK, UNIQUE)                                               | 13 a 19         |
+| 4       | Triggers: Taça das Casas, validação de compra, baixa de estoque, situação automática, auditoria | 20 a 25         |
+| 5       | TCL: COMMIT, ROLLBACK, SAVEPOINT, autocommit                                                    | 26 a 30         |
+| 6       | Consultas: operadores especiais, JOINs, agregação com HAVING, subconsultas, UNION ALL           | 6.1 a 6.27      |
+| 7       | Views                                                                                           | 31 a 38         |
+| 8       | DCL: usuários, GRANT, REVOKE e papéis (roles)                                                   | 39 a 48         |
 
 Em cada seção, os blocos **Confira** do enunciado trazem valores para você saber se está no caminho certo antes de seguir.
 
